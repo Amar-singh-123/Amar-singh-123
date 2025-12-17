@@ -204,7 +204,7 @@ I'm passionate about building products that make a difference. Whether you're lo
 
 <br/>
 
-⭐ **From [Amarnath Singh](https://github.com/yourusername)**
+⭐ **From [Amarnath Singh](https://github.com/Amar-singh-123)**
 
 <br/>
 
