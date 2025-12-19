@@ -121,7 +121,7 @@ I craft **exceptional mobile experiences** that users love. From sleek consumer 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amar-singh-123&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&border=0D1117" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Amar-singh-123&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&border=0D1117" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
