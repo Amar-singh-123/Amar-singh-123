@@ -122,7 +122,7 @@ I craft **exceptional mobile experiences** that users love. From sleek consumer 
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Amar-singh-123&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Amar-singh-123" />
 </p>
 
 <p align="center">
