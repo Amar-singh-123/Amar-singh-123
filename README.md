@@ -120,12 +120,13 @@ I craft **exceptional mobile experiences** that users love. From sleek consumer 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amar-singh-123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8"/>
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Amar-singh-123&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&border=0D1117" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=Amar-singh-123&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amar-singh-123&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Amar-singh-123&theme=tokyonight&column=6" />
 </p>
 
 <br/>
