@@ -121,13 +121,13 @@ I craft **exceptional mobile experiences** that users love. From sleek consumer 
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.vercel.app/?user=Amar-singh-123" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Amar-singh-123&theme=tokyonight&column=6" />
-</p>
+</p> -->
 
 <br/>
 
