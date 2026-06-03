@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <em>Turning Ideas into Reality • 3.5+ Years of Innovation • 12+ Apps in Production</em>
+  <em>Turning Ideas into Reality • 4+ Years of Innovation • 12+ Apps in Production</em>
 </p>
 
 <br/>
